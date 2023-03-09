@@ -1,5 +1,10 @@
 # Interactive-Poster-for-Perfume-Branding
-Procedural and visual media
+##Procedural and visual media
+
+###How to interact:
+
+**Pick three perfume ingredients by hovering over and clicking. Use the dropper to transfer the molecules of the ingredients to the perfume bottle to make your own perfume!**
+
 
 The ancient way of making perfume is fabulous. For example, to make rose perfume, the workers heat the rose petals and water in a mud-made container until they emit steam. They then cool down the steam and get condensed liquid rose water. In this way, the rose gets deconstructed into molecules and then combined with other natural molecules to be reconstructed into rose perfume. The process is just like how we make molecular gastronomy.
 
