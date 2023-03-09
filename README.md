@@ -1,7 +1,7 @@
 # Interactive-Poster-for-Perfume-Branding
-##Procedural and visual media
+## Procedural and visual media
 
-###How to interact:
+### How to interact:
 
 **Pick three perfume ingredients by hovering over and clicking. Use the dropper to transfer the molecules of the ingredients to the perfume bottle to make your own perfume!**
 
