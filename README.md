@@ -6,7 +6,7 @@
 **Pick three perfume ingredients by hovering over and clicking. Use the dropper to transfer the molecules of the ingredients to the perfume bottle to make your own perfume!**
 
 
-<img src="https://user-images.githubusercontent.com/32614665/224184748-7ada9b2d-6f98-4d64-b124-d1b5d7c3d020.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/32614665/224184748-7ada9b2d-6f98-4d64-b124-d1b5d7c3d020.png" width="400">
 
 
 The ancient way of making perfume is fabulous. For example, to make rose perfume, the workers heat the rose petals and water in a mud-made container until they emit steam. They then cool down the steam and get condensed liquid rose water. In this way, the rose gets deconstructed into molecules and then combined with other natural molecules to be reconstructed into rose perfume. The process is just like how we make molecular gastronomy.
